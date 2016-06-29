@@ -1,0 +1,101 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/" . "admin_users/")
+ ("/" . "Users/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/" . "views/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" . "app/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/" . "simple_cms/")
+ ("/Users/jeff/.emacs.d/elpa/" . "highlight-current-line/")
+ ("/Users/jeff/.emacs.d/" . "snippets/")
+ ("/Users/jeff/Documents/Training/Ruby/Pickaxe/" . "Chap2/")
+ ("/Users/jeff/Documents/Training/Ruby/" . "Pickaxe/")
+ ("/Users/" . "jeff/")
+ ("/Users/jeff/Documents/Training/" . "Lynda_Ruby_on_Rails_4_Essential_Training/")
+ ("/Users/jeff/Documents/" . "Training/")
+ ("/Users/jeff/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/admin_users/"
+ "/Users/jeff/"
+ "/Users/jeff/.emacs.d/snippets/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/controllers/"
+ "/Users/jeff/Documents/test/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/subjects/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/"
+ "/Users/jeff/Documents/Training/Ruby/Pickaxe/Chap2/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/"
+ "/Users/jeff/.emacs.d/elpa/highlight-current-line/"
+ "/Users/jeff/Documents/Training/Ruby/"
+ "/Users/jeff/Documents/Adobe Scripts/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.html.erb"
+ ".emacs"
+ "er"
+ "erb"
+ ".CFUserTextEncoding"
+ "admin_users_controller.rb"
+ "tasks.org"
+ "readme.md"
+ "hash.rb"
+ "routes.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/admin_users/" (22387 2133 0 0) "index.html.erb~" "index.html.erb" "../" "./")
+
+ ("/Users/jeff/" (22387 2261 0 0) "tasks.org~" "tasks.org" "Sites/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files (archived) (1)/" "Applications/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rnd" ".rbenv/" ".psql_history" ".mysql_history" ".iterm2_shell_integration.bash" ".iterm2/" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".emacs-temp" ".emacs-backup" ".emacs" ".DS_Store" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+
+ ("/Users/jeff/.emacs.d/" (22387 2230 0 0) "url/" "themes/" "snippets/" "projectile-bookmarks.eld" "my_packages/" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/.emacs.d/snippets/" (22387 1971 0 0) "erb~" "erb" "er" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/controllers/" (22387 104 0 0) "subjects_controller.rb~" "subjects_controller.rb" "sections_controller.rb" "pages_controller.rb" "demo_controller.rb" "concerns/" "application_controller.rb" "admin_users_controller.rb~" "admin_users_controller.rb" "access_controller.rb" ".#admin_users_controller.rb" "#admin_users_controller.rb#" "../" "./")
+
+ ("/Users/jeff/Documents/test/" (22386 58566 0 0) "readme.md~" "readme.md" ".git/" "../" "./")
+
+ ("/Users/jeff/Documents/" (22386 57570 0 0) "Work/" "versioner_02.bmpr" "versioner.bmpr" "USB Backup/" "Training/" "tisdt_cujoca.pdf" "test/" "Style_Tile_Template.psd" "SetOrdinal.js" "reset.css" "Receipts/" "PHP install script2.txt" "PHP install script.txt" "php/" "PGRIDCard&VerificationofInsurance.pdf" "peeling_demo.c4d" "New Mockup 1.png" "HDR Images/" "goodbye.omm" "configure-help.txt" "Books/" "Bond/" "Adobe Scripts/" "Adobe/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/gittest/" (22386 57166 0 0) "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/subjects/" (22352 4013 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/" (22386 23151 0 0) "subjects/" "sections/" "pages/" "layouts/" "demo/" "application/" "admin_users/" "access/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/models/" (22384 26345 0 0) "subject.rb" "section_edit.rb" "section.rb" "page.rb" "concerns/" "admin_user.rb~" "admin_user.rb" ".keep" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/" (22324 26755 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/" (22356 4242 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" (22384 19266 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".projectile" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/" (22324 26755 0 0) "simple_cms/" "Exercise Files/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Ruby/Pickaxe/Chap2/" (22384 7524 0 0) "hash.rb~" "hash.rb" "../" "./")
+
+ ("/Users/jeff/.emacs.d/elpa/highlight-current-line/" (22381 46649 0 0) "highlight-current-line.el~" "highlight-current-line.el" "../" "./")
+
+ ("/Users/jeff/.emacs.d/elpa/" (22379 7643 0 0) "web-mode-14/" "scss-mode-0.5.0/" "robe-0.7.9/" "rich-minority-1.0.1/" "popup-0.5.3/" "inf-ruby-2.4.0/" "hlinum-mode/" "highlight-current-line/" "auto-complete-1.5.1/" "atom-one-dark-theme-0.4.0/" "archives/" "ac-inf-ruby-0.4/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Ruby/Pickaxe/" (22380 29156 0 0) "Chap2/" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Ruby/" (22380 29129 0 0) "toc.rb" "ThinkLikeProg/" "temp/" "stringmethods.rb" "stock_stats.rb" "RimmerTShirts.txt" "recursion_practice.rb" "pics/" "Pickaxe/" "orange.rb~" "orange.rb" "mix_it_up.rb" "maths.rb" "lyrics.txt" "ListerQuote.txt" "hoursminssecs.rb" "fullname.rb" "fibseq.rb" "die.rb" "DatasGadgets.txt" "data.csv" "daily_study.rb" "csv_reader.rb" "code_school/" "class_example.rb" "chap9.rb" "chap8.rb" "chap7.rb" "chap14.rb~" "chap14.rb" "chap12a.rb" "chap11f.rb" "chap11e.rb" "chap11d.rb" "chap11c.rb" "chap11b.rb" "chap11a.rb" "chap10h.rb" "chap10g.rb" "chap10f.rb" "chap10e.rb" "chap10d.rb" "chap10c.rb" "chap10b.rb" "chap10.rb" "calc.rb" "book_in_stock.rb" "angryboss.rb" "accounting.rb" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Adobe Scripts/" (22109 56116 0 0) "TextBoundingBox_Expression.zip" "TextBoundingBox_Expression.aep" "TextBoundingBox.jsx" "Testing/" "SuperQueue_beta6.js" "SuperQueue_beta5.js" "SuperQueue_beta4.js" "SuperQueue_beta3.js" "SuperQueue_beta2.js" "SuperQueue_beta.jsx" "string_searching.js" "snippets_02.js" "snippets_01.js" "season_dateFix.js" "ScaleComposition.jsx" "regex_example_01.js" "Production/" "PresetEffects.xml" "Organisation_work.js" "oiginalVersion.js" "MakeWindow.jsx" "makeMask.jsx" "HelloWorld.jsx" "FindTextWidth4.js" "FindTextWidth3.js" "FindTextWidth2_work.js" "FindTextWidth2.js" "FindTextWidth.js" "FillQueue_beta2.js" "FillQueue_beta.js" "Development/" "Create Folders AE Script.zip" "Create Folders AE Script/" "animMask2.jsx" "animMask.jsx" ".DS_Store" "../" "./")
+
+ ("/Users/" (21815 791 0 0) "Shared/" "jeff/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/jeff/Documents/Training/" (22324 24456 0 0) "Stunning CSS3/" "Sketching With CSS Complete/" "sketching/" "Scheme/" "Ruby/" "Python/" "Project Management/" "Lynda_Ruby_on_Rails_4_Essential_Training/" "lynda_child_themes/" "jsplay.html" "Joy_of_PHP/" "JavaScript/" "CSS/" "Balsamiq/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

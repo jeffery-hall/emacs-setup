@@ -1,0 +1,1 @@
+("~/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/")

@@ -1,0 +1,66 @@
+((("mac" .
+   [1 0 0])
+  ("window-system" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("when" .
+   [1 0 0 0])
+  ("autoload" .
+   [1 0 0 0 0 0 0 0])
+  ("robe-mode" .
+   [0 0 0 0 0 0 0 0 1])
+  ("inf-ruby-minor-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("inf-ruby" .
+   [0 0 0 1 0 0 0 0])
+  ("lambda" .
+   [1 0 0 0 0 0])
+  ("add-hook" .
+   [0 0 1 6 0 0 0 0])
+  ("highlight-current-line" .
+   [0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("added" .
+   [0 0 0 1 0])
+  ("do_self_importantly" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("on" .
+   [1 0])
+  ("nil" .
+   [5 0 0])
+  ("require" .
+   [4 0 1 2 0 1 0])
+  ("enh-ruby-mode-hook" .
+   [0 0 1 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("flx-ido" .
+   [0 0 0 2 0 0 0])
+  ("setq" .
+   [2 0 0 4])
+  ("ido-vertical" .
+   [0 0 0 0 0 0 0 1 0 1 0 0])
+  ("ido-vertical-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("auto-mode-alist" .
+   [0 0 0 0 1 0 0 0 0 1 0 0 0 0 0])
+  ("eval-after-load" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ruby-mode-hook" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("powerline" .
+   [0 0 0 2 0 2 0 0 0])
+  ("set-face-attribute" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("mode-line" .
+   [1 0 0 0 0 0 0 0 0])
+  (":foreground" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  (":background" .
+   [0 0 0 0 0 2 0 0 0 0 0])
+  ("highlight-current-line-minor-mode" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("vc-handled-backends" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("kbd" .
+   [1 0 0])))
