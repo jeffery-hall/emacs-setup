@@ -254,5 +254,6 @@
 ;;; For Ruby Robe
 (global-set-key (kbd "C-c C-r") 'ruby-send-region)
 (global-set-key (kbd "C-c C-l") 'ruby-load-file)
+
 (global-set-key (kbd "C-x g") 'magit-status)
 
