@@ -1,5 +1,5 @@
 #contributor : Jeff Hall <hall.jeffw@gmail.com>
-#key : erb
-#name : <% ... %>
+#key : eri
+#name : <%= ... %>
 # --
-<% $0 %>
+<%= $0 %>

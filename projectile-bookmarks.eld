@@ -1,1 +1,1 @@
-("~/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/")
+("~/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" "~/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/" "~/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/" "~/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/")

@@ -31,6 +31,8 @@
 
 ;; Package Management
 
+(require 'tramp)
+
 (require 'package) ;; You might already have this line
 (add-to-list 'package-archives
 	     '("melpa-stable" . "https://stable.melpa.org/packages/") t)
@@ -165,6 +167,7 @@
 ;;(projectile-global-mode)
 (add-hook 'ruby-mode-hook 'projectile-mode)
 (add-hook 'enh-ruby-mode-hook 'projectile-mode)
+(add-hook 'web-mode-hook 'projectile-mode)
 (add-hook 'projectile-mode-hook 'projectile-rails-on)
 ;;(setq projectile-rails-add-keywords nil)
 
@@ -204,6 +207,7 @@
 (add-to-list 'load-path "~/.emacs.d/my_packages/emmet-mode/")
 (require 'emmet-mode)
 (add-hook 'sgml-mode-hook 'emmet-mode)
+(add-hook 'web-mode-hook 'emmet-mode)
 (add-hook 'css-mode-hook  'emmet-mode)
 (setq emmet-move-cursor-between-quotes t)
 
@@ -217,6 +221,7 @@
 (yas-reload-all)
 (add-hook 'web-mode-hook #'yas-minor-mode)
 (add-hook 'enh-ruby-mode-hook #'yas-minor-mode)
+(add-hook 'javascript-mode-hook #'yas-minor-mode)
 
 
 ;;Org mode
@@ -242,6 +247,17 @@
 (add-hook 'magit-post-refresh-hook 'diff-hl-magit-post-refresh)
 
 
+;; Comments toggle
+(defun comment-or-uncomment-region-or-line ()
+    "Comments or uncomments the region or the current line if there's no active region."
+    (interactive)
+    (let (beg end)
+        (if (region-active-p)
+            (setq beg (region-beginning) end (region-end))
+            (setq beg (line-beginning-position) end (line-end-position)))
+        (comment-or-uncomment-region beg end)))
+
+
 ;; key bindings
 
 (when (eq system-type 'darwin) ;; mac specific settings
@@ -257,3 +273,7 @@
 
 (global-set-key (kbd "C-x g") 'magit-status)
 
+(global-set-key (kbd "C-3") 'comment-or-uncomment-region-or-line)
+
+(provide 'init)
+;;; init.el ends here

@@ -2,10 +2,27 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/" . "admin_users/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/" . "environments/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/views/" . "pages/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/" . "views/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/" . "app/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/" . "simple_cms/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/views/" . "pages/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/" . "views/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/" . "app/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/" . "simple_cms/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/views/" . "access/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/" . "controllers/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/" . "app/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/" . "simple_cms/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/" . "15_05/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/" . "Chapter 15/")
+ ("/ssh:jwhall@web522.webfaction.com:/" . "home/")
+ ("/Users/jeff/.emacs.d/snippets/" . "web-mode/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/" . "layouts/")
  ("/" . "Users/")
  ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/" . "views/")
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" . "app/")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" . "config/")
  ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/" . "simple_cms/")
  ("/Users/jeff/.emacs.d/elpa/" . "highlight-current-line/")
  ("/Users/jeff/.emacs.d/" . "snippets/")
@@ -14,21 +31,34 @@
  ("/Users/" . "jeff/")
  ("/Users/jeff/Documents/Training/" . "Lynda_Ruby_on_Rails_4_Essential_Training/")
  ("/Users/jeff/Documents/" . "Training/")
- ("/Users/jeff/" . "Documents/")
+ ("/Users/jeff/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/admin_users/"
- "/Users/jeff/"
- "/Users/jeff/.emacs.d/snippets/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/environments/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/"
+ "/Users/jeff/.emacs.d/snippets/web-mode/"
+ "/Users/jeff/.emacs.d/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/views/pages/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/views/sections_his/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/sections/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/controllers/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/views/pages/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/views/sections/"
  "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/controllers/"
+ "/Users/jeff/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/admin_users/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/controllers/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/views/access/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/config/"
+ "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/views/admin_users/"
+ "/Users/jeff/.emacs.d/snippets/"
  "/Users/jeff/Documents/test/"
  "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/subjects/"
  "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/"
  "/Users/jeff/Documents/Training/Ruby/Pickaxe/Chap2/"
- "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/"
- "/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/"
  "/Users/jeff/.emacs.d/elpa/highlight-current-line/"
  "/Users/jeff/Documents/Training/Ruby/"
  "/Users/jeff/Documents/Adobe Scripts/"
@@ -36,47 +66,113 @@
 
 ;; ----- ido-work-file-list -----
 (
- "index.html.erb"
- ".emacs"
- "er"
+ "development.rb"
+ "config.ru"
  "erb"
- ".CFUserTextEncoding"
- "admin_users_controller.rb"
- "tasks.org"
- "readme.md"
- "hash.rb"
- "routes.rb"
+ "eri"
+ "er"
+ "init.el"
+ "edit.html.erb"
+ "Gemfile"
+ "show.html.erb"
+ "_form.html.erb"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/admin_users/" (22387 2133 0 0) "index.html.erb~" "index.html.erb" "../" "./")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/environments/" (22324 26755 0 0) "test.rb" "production.rb" "development.rb" "../" "./")
 
- ("/Users/jeff/" (22387 2261 0 0) "tasks.org~" "tasks.org" "Sites/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files (archived) (1)/" "Applications/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rnd" ".rbenv/" ".psql_history" ".mysql_history" ".iterm2_shell_integration.bash" ".iterm2/" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".emacs-temp" ".emacs-backup" ".emacs" ".DS_Store" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/log/" (22332 18645 0 0) "test.log" "development.log" ".keep" "../" "./")
 
- ("/Users/jeff/.emacs.d/" (22387 2230 0 0) "url/" "themes/" "snippets/" "projectile-bookmarks.eld" "my_packages/" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".DS_Store" "../" "./")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/layouts/" (22392 19456 0 0) "public.html.erb~" "public.html.erb" "application.html.erb" "admin.html.erb" "_shim.html.erb" "../" "./")
 
- ("/Users/jeff/.emacs.d/snippets/" (22387 1971 0 0) "erb~" "erb" "er" "../" "./")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/" (22391 60496 0 0) "subjects/" "sections/" "public/" "pages/" "layouts/" "demo/" "application/" "admin_users/" "access/" ".DS_Store" "../" "./")
 
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/controllers/" (22387 104 0 0) "subjects_controller.rb~" "subjects_controller.rb" "sections_controller.rb" "pages_controller.rb" "demo_controller.rb" "concerns/" "application_controller.rb" "admin_users_controller.rb~" "admin_users_controller.rb" "access_controller.rb" ".#admin_users_controller.rb" "#admin_users_controller.rb#" "../" "./")
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/controllers/" (22393 3963 0 0) "subjects_controller.rb" "sections_controller_mine.rb" "sections_controller.rb" "public_controller.rb~" "public_controller.rb" "pages_controller.rb" "demo_controller.rb" "concerns/" "application_controller.rb" "admin_users_controller.rb" "access_controller.rb" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/.emacs.d/snippets/web-mode/" (22392 20194 0 0) "er~" "eri" "erb~" "erb" "er" ".#er" "../" "./")
+
+ ("/Users/jeff/.emacs.d/" (22392 19407 0 0) "url/" "tramp" "themes/" "snippets/" "projectile.cache" "projectile-bookmarks.eld" "my_packages/" "init.el~" "init.el" "ido.last~" "ido.last" "eshell/" "elpa/" "auto-save-list/" "ac-comphist.dat" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/public/" (22392 19952 0 0) "show.html.erb" "index.html.erb" ".#show.html.erb" "#show.html.erb#" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/" (22391 60714 0 0) "secrets.yml" "routes.rb~" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/sections/" (22391 53289 0 0) "show.html.erb" "new.html.erb" "index.html.erb~" "index.html.erb" "edit.html.erb~" "edit.html.erb" "delete.html.erb" "_form.html.erb" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/models/" (22391 56532 0 0) "subject.rb~" "subject.rb" "section_edit.rb" "section.rb~" "section.rb" "page.rb~" "page.rb" "concerns/" "admin_user.rb~" "admin_user.rb" ".keep" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/views/pages/" (21153 56890 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/views/" (22391 49331 0 0) "subjects/" "sections/" "pages/" "layouts/" "demo/" "application/" "admin_users/" "access/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" (22391 50080 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile~" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".projectile" ".gitignore~" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/pages/" (22390 56568 0 0) "show.html.erb~" "show.html.erb" "new.html.erb~" "new.html.erb" "index.html.erb~" "index.html.erb" "edit.html.erb~" "edit.html.erb" "delete.html.erb~" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/sections_his/" (22390 61764 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/views/sections_his/" (22390 61465 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/app/" (22390 59996 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/simple_cms/" (22390 59971 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_05/" (22390 59971 0 0) "simple_cms/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/" (22390 60556 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/" (22390 24051 0 0) "Work/" "versioner_02.bmpr" "versioner.bmpr" "USB Backup/" "Training/" "tisdt_cujoca.pdf" "test/" "Style_Tile_Template.psd" "SetOrdinal.js" "reset.css" "Receipts/" "PHP install script2.txt" "PHP install script.txt" "php/" "PGRIDCard&VerificationofInsurance.pdf" "peeling_demo.c4d" "New Mockup 1.png" "HDR Images/" "goodbye.omm" "configure-help.txt" "Books/" "Bond/" "Adobe Scripts/" "Adobe/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/views/pages/" (21153 56888 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/views/sections/" (21153 56888 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/views/" (21153 56888 0 0) "subjects/" "sections/" "pages/" "layouts/" "demo/" "application/" "admin_users/" "access/" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/controllers/" (21153 56888 0 0) "subjects_controller.rb" "sections_controller.rb" "pages_controller.rb" "demo_controller.rb" "concerns/" "application_controller.rb" "admin_users_controller.rb" "access_controller.rb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/app/" (21153 56888 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/simple_cms/" (21153 56890 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_04/" (21094 38134 0 0) "simple_cms/" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/subjects/" (22390 30798 0 0) "show.html.erb" "new.html.erb" "index.html.erb~" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/assets/stylesheets/" (22384 20665 0 0) "subjects.scss" "sections.scss" "public.css" "pages.scss" "demo.scss" "custom.scss" "application.css" "admin_users_controller.scss" "admin.css" "access.scss" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/admin_users/" (22389 37572 0 0) "new.html.erb~" "new.html.erb" "index.html.erb~" "index.html.erb" "edit.html.erb" "delete.html.erb~" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/" (22389 38201 0 0) "tasks.org~" "tasks.org" "Sites/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files (archived) (1)/" "Applications/" ".viminfo" ".Trash/" ".subversion/" ".ssh/" ".rnd" ".rbenv/" ".psql_history" ".mysql_history" ".iterm2_shell_integration.bash" ".iterm2/" ".gitconfig" ".gem/" ".emacs.d/" ".emacs-test" ".emacs-temp" ".emacs-backup" ".DS_Store" ".CFUserTextEncoding" ".bash_profile" ".bash_history" ".atom/" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/views/access/" (21153 56888 0 0) "login.html.erb" "index.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/config/" (22324 24499 0 0) "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/views/admin_users/" (21153 56888 0 0) "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/views/" (22388 63083 0 0) "subjects/" "sections/" "pages/" "layouts/" "demo/" "application/" "admin_users/" "access/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/" (22388 62969 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/" (22388 62964 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/" (22388 62964 0 0) "simple_cms/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/" (22388 62964 0 0) "15_08/" "15_07/" "15_06/" "15_05/" "15_04/" "15_03/" "15_02/" "15_01/" ".DS_Store" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/Chapter 15/15_02/simple_cms/app/controllers/" (21153 56888 0 0) "subjects_controller.rb" "sections_controller.rb" "pages_controller.rb" "demo_controller.rb" "concerns/" "application_controller.rb" "admin_users_controller.rb" "access_controller.rb" "../" "./")
+
+ ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/Exercise Files/" (22351 26248 0 0) "Chapter 17/" "Chapter 16/" "Chapter 15/" "Chapter 14/" "Chapter 13/" "Chapter 12/" "Chapter 11/" "Chapter 10/" "Chapter 09/" "Chapter 08/" "Chapter 07/" "Chapter 06/" "Chapter 05/" "Chapter 04/" ".DS_Store" "../" "./")
+
+ ("//" (22378 31655 0 0) "Volumes/" "var/" "usr/" "Users/" "tmp/" "System/" "sbin/" "private/" "Network/" "net/" "Library/" "installer.failurerequests" "home/" "etc/" "dev/" "cores/" "bin/" "Applications/" ".vol/" ".Trashes/" ".Spotlight-V100/" ".fseventsd/" ".file" ".DS_Store" ".DocumentRevisions-V100/" "../" "./")
+
+ ("/Users/jeff/.emacs.d/snippets/" (22387 8335 0 0) "web-mode/" "../" "./")
 
  ("/Users/jeff/Documents/test/" (22386 58566 0 0) "readme.md~" "readme.md" ".git/" "../" "./")
 
- ("/Users/jeff/Documents/" (22386 57570 0 0) "Work/" "versioner_02.bmpr" "versioner.bmpr" "USB Backup/" "Training/" "tisdt_cujoca.pdf" "test/" "Style_Tile_Template.psd" "SetOrdinal.js" "reset.css" "Receipts/" "PHP install script2.txt" "PHP install script.txt" "php/" "PGRIDCard&VerificationofInsurance.pdf" "peeling_demo.c4d" "New Mockup 1.png" "HDR Images/" "goodbye.omm" "configure-help.txt" "Books/" "Bond/" "Adobe Scripts/" "Adobe/" ".localized" ".DS_Store" "../" "./")
-
  ("/Users/jeff/Documents/gittest/" (22386 57166 0 0) "../" "./")
-
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/subjects/" (22352 4013 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "delete.html.erb" "_form.html.erb" "../" "./")
-
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/views/" (22386 23151 0 0) "subjects/" "sections/" "pages/" "layouts/" "demo/" "application/" "admin_users/" "access/" ".DS_Store" "../" "./")
-
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/models/" (22384 26345 0 0) "subject.rb" "section_edit.rb" "section.rb" "page.rb" "concerns/" "admin_user.rb~" "admin_user.rb" ".keep" ".DS_Store" "../" "./")
-
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/config/" (22324 26755 0 0) "secrets.yml" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "database.yml" "boot.rb" "application.rb" "../" "./")
-
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/app/" (22356 4242 0 0) "views/" "models/" "mailers/" "helpers/" "controllers/" "assets/" ".DS_Store" "../" "./")
-
- ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/simple_cms/" (22384 19266 0 0) "vendor/" "tmp/" "test/" "README.rdoc" "Rakefile" "public/" "log/" "lib/" "Gemfile.lock" "Gemfile" "db/" "config.ru" "config/" "bin/" "app/" ".projectile" ".gitignore" ".DS_Store" "../" "./")
 
  ("/Users/jeff/Documents/Training/Lynda_Ruby_on_Rails_4_Essential_Training/" (22324 26755 0 0) "simple_cms/" "Exercise Files/" ".DS_Store" "../" "./")
 
